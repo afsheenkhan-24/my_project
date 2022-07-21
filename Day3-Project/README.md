@@ -4,8 +4,7 @@ Make your own "Adventure Game" using if, else and elif conditions to layout the 
 
 # Text Snippets from my example
 
-
--'You're at a crossroad. Where do you want to go? Type "left" or "right"'
+<li>'You're at a crossroad. Where do you want to go? Type "left" or "right"'</li>
 <li>'You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.'</li>
 <li>"You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?"</li>
 <li>"It's a room full of fire. Game Over."</li>
