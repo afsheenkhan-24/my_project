@@ -10,7 +10,7 @@ Format the result to 2 decimal places = 33.60
 Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
 
 
-*HINT
+**HINT**
 
 1. Round the number to 2 decimal places
 2. Limit a float to two decimal places
